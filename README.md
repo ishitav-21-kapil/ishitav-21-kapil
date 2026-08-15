@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ishitav Kapil 👋
 
-<!--
-**ishitav-21-kapil/ishitav-21-kapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring ML Engineer
 
-Here are some ideas to get you started:
+I'm currently building my skills in **Python, Data Science, and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Working With
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
+
+### 📚 Currently Learning
+
+- Statistics & Probability
+- Machine Learning
+- Scikit-Learn
+
+### 🎯 Interested In
+
+- Machine Learning
+- Data Science
+- Artificial Intelligence
+
+### 🚀 My Goal
+
+To build strong practical skills in **Machine Learning** and eventually work as an **ML Engineer**.
+
+---
+*Always learning. Always building.*
